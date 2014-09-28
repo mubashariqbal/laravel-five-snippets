@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+Form::macro('${1:myField}', function()
+{
+
+});
+]]></content>
+    <tabTrigger>Form::macro</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Generate a Form Macro</description>
+</snippet>

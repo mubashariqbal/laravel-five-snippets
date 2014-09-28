@@ -1,2 +1,2 @@
-sublime-laravel-five-snippets
+Laravel 5 Snippets for Sublime Text
 =============================

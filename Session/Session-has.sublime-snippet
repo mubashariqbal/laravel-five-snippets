@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Session::has('${1:users}');
+]]></content>
+    <tabTrigger>Session::has</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Determin if an Item Exists in the Session</description>
+</snippet>

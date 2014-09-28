@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Session::push('${1:user.teams}', '${2:developers}');
+]]></content>
+    <tabTrigger>Session::push</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Push a Value onto an Array Session Value</description>
+</snippet>

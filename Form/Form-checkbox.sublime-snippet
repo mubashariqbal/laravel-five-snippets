@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<label>
+	{!! Form::checkbox('${1:name}', '${2:value}', ${3:true}) !!}
+	${5:Label text}
+</label>
+]]></content>
+    <tabTrigger>Form::checkbox</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Generate a Checkbox element (name, value, checked, attributes)</description>
+</snippet>

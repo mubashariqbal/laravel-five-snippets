@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{!! Form::select('${1:size}', ${2:['L' => 'Large', 'S' => 'Small']}, ${3:'S'}) !!}
+]]></content>
+    <tabTrigger>Form::select</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Generate a Drop-down list (name, array of options, default, attributes)</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{!! Form::text('${1:email}', '${2:example@gmail.com}') !!}
+]]></content>
+    <tabTrigger>Form::text</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Generate a Text Input element (name, default, attributes)</description>
+</snippet>

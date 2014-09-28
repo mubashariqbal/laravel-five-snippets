@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+{!! Form::model(${1:\$user}, ['${2:route}' => ['${3:user.update}', ${4:\$user->id}]]) !!}
+
+
+{!! Form::close() !!}
+]]></content>
+    <tabTrigger>Form::model</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Open a Form with Model Binding</description>
+</snippet>

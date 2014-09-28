@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{!! Form::label('${1:email}, '${2:E-Mail Address}') !!}
+]]></content>
+    <tabTrigger>Form::label</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Generate a Label element</description>
+</snippet>

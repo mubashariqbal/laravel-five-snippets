@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{!! Form::submit('${1:Click Me!}') !!}
+]]></content>
+    <tabTrigger>Form::submit</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Generate a Submit button (value, attributes)</description>
+</snippet>

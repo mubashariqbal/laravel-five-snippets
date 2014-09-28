@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Session::get('${1:key}', '${2:default}');
+]]></content>
+    <tabTrigger>Session::get</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Retrieve an Item from the Session or Default Value</description>
+</snippet>

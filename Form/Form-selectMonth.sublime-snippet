@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{!! Form::selectMonth('${1:month}') !!}
+]]></content>
+    <tabTrigger>Form::selectMonth</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Generate a Drop-down list with Months (name, default, attributes)</description>
+</snippet>

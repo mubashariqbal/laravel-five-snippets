@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<label>
+    {!! Form::radio('${1:name}', '${2:value}', ${3:true}) !!}
+    ${5:Label text}
+</label>
+]]></content>
+    <tabTrigger>Form::radio</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Generate a Radio element (name, value, checked, attributes)</description>
+</snippet>

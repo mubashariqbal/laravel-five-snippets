@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{!! Form::file(${1:\$name}, ${2:\$attributes}) !!}
+]]></content>
+    <tabTrigger>Form::input</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Generate a File Input element (name, attributes)</description>
+</snippet>
