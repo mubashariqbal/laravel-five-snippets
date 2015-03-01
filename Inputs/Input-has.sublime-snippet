@@ -3,6 +3,6 @@
 \$request->has('${1:name}');
 ]]></content>
     <tabTrigger>Input::has</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Determine if Input Value is Present</description>
 </snippet>

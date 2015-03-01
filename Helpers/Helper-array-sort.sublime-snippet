@@ -6,6 +6,6 @@ ${1:\$array} = array_values(array_sort(${2:\$array}, function(${3:\$key}, ${4:\$
 }));
 ]]></content>
     <tabTrigger>Helper::arrayValues</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <!-- <description>@todo add description</description> -->
 </snippet>

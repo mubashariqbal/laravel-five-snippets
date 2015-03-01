@@ -3,6 +3,6 @@
 ends_with(${1:'This is my name'}, ${2:'name'});
 ]]></content>
     <tabTrigger>Helper::endsWith</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Determine if the given haystack ends with a given needle.</description>
 </snippet>

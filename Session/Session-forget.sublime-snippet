@@ -3,6 +3,6 @@
 Session::forget('${1:key}');
 ]]></content>
     <tabTrigger>Session::forget</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Remove an Item from the Session</description>
 </snippet>

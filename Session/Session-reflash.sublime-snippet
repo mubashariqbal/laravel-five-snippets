@@ -3,6 +3,6 @@
 Session::reflash();
 ]]></content>
     <tabTrigger>Session::reflash</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Reflash the Current Flash Data</description>
 </snippet>

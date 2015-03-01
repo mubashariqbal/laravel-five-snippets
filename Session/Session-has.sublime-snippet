@@ -3,6 +3,6 @@
 Session::has('${1:users}');
 ]]></content>
     <tabTrigger>Session::has</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Determin if an Item Exists in the Session</description>
 </snippet>

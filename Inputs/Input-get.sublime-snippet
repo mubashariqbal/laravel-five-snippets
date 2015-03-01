@@ -3,6 +3,6 @@
 \$request->input('${1:name}');
 ]]></content>
     <tabTrigger>Input::get</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Retrieve an Input value</description>
 </snippet>

@@ -3,6 +3,6 @@
 array_get(${1:\$array, ${2:'names.john'}, ${3:'default'});
 ]]></content>
     <tabTrigger>Helper::arrayGet</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <!-- <description>@todo add description</description> -->
 </snippet>

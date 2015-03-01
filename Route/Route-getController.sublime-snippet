@@ -3,6 +3,6 @@
 \$router->${1:get}('${2:user/{id}}', '${3:UserController@showProfile}');
 ]]></content>
     <tabTrigger>Route::getController</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Route to Controller Action</description>
 </snippet>

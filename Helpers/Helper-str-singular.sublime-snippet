@@ -3,6 +3,6 @@
 str_singular(${1:'cars'});
 ]]></content>
     <tabTrigger>Helper::strSingular</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Convert a string to its singular form (English only).</description>
 </snippet>

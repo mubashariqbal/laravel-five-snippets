@@ -5,6 +5,6 @@ ${1:\$value} = value(function() {
 });
 ]]></content>
     <tabTrigger>Helper::value</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>If the given value is a Closure, return the value returned by the Closure. Otherwise, return the value.</description>
 </snippet>

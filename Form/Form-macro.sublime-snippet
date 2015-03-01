@@ -6,6 +6,6 @@ Form::macro('${1:myField}', function()
 });
 ]]></content>
     <tabTrigger>Form::macro</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Generate a Form Macro</description>
 </snippet>

@@ -3,6 +3,6 @@
 View::make('${1:view.name}', ${2:\$data});
 ]]></content>
     <tabTrigger>View::make</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Create a View with Data</description>
 </snippet>

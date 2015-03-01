@@ -5,6 +5,6 @@
 {!! Form::close() !!}
 ]]></content>
     <tabTrigger>Form::openWithFileUpload</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Open a Form and Enable File Upload</description>
 </snippet>

@@ -6,6 +6,6 @@
 {!! Form::close() !!}
 ]]></content>
     <tabTrigger>Form::model</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Open a Form with Model Binding</description>
 </snippet>

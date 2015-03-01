@@ -3,6 +3,6 @@
 \$request->hasFile('${1:photo}');
 ]]></content>
     <tabTrigger>Input::hasFile</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Determine if File was Uploaded</description>
 </snippet>

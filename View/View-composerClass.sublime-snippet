@@ -3,6 +3,6 @@
 View::composer('${1:name}', '${2:SomeComposer}');
 ]]></content>
     <tabTrigger>View::composerClass</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Define a Class-based View Composer</description>
 </snippet>

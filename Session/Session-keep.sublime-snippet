@@ -3,6 +3,6 @@
 Session::keep(${1:['username', 'email']});
 ]]></content>
     <tabTrigger>Session::keep</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Reflash Only a Subset of Flash Data</description>
 </snippet>

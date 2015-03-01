@@ -4,6 +4,6 @@ redirect('${1:form}')
         ->withErrors(${2:\$validator});
 ]]></content>
     <tabTrigger>Redirect::withErrors</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Redirect to URL, Route or Controller with Errors</description>
 </snippet>

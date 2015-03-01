@@ -6,6 +6,6 @@ ${1:\$value} = array_last(${2:\$array}, function(${3:\$key}, ${4:\$value})
 }, $default);
 ]]></content>
     <tabTrigger>Helper::arrayLast</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <!-- <description>@todo add description</description> -->
 </snippet>

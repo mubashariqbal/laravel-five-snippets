@@ -6,6 +6,6 @@
 });
 ]]></content>
     <tabTrigger>Route::get</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Basic Route with Closure</description>
 </snippet>

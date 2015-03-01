@@ -3,6 +3,6 @@
 studly_case(${1:'foo_bar'});
 ]]></content>
     <tabTrigger>Helper::studlyCase</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Convert the given string to StudlyCase.</description>
 </snippet>

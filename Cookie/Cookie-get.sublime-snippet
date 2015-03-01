@@ -3,6 +3,6 @@
 \$request->cookie('${1:name}')
 ]]></content>
     <tabTrigger>Cookie::get</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Retrieve a Cookie value</description>
 </snippet>

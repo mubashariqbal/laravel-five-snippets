@@ -3,6 +3,6 @@
 Session::regenerate();
 ]]></content>
     <tabTrigger>Session::regenerate</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Regenerate the Session ID</description>
 </snippet>

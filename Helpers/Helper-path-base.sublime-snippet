@@ -3,6 +3,6 @@
 base_path();
 ]]></content>
     <tabTrigger>Helper::basePath</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Get the fully qualified path to the root of the application install.</description>
 </snippet>

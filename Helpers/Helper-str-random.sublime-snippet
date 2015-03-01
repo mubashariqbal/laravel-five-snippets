@@ -3,6 +3,6 @@
 str_random(${1:40});
 ]]></content>
     <tabTrigger>Helper::strRandom</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Generate a random string of the given length.</description>
 </snippet>

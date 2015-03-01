@@ -3,6 +3,6 @@
 snake_case(${1:'fooBar'});
 ]]></content>
     <tabTrigger>Helper::snakeCase</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Convert the given string to snake_case.</description>
 </snippet>

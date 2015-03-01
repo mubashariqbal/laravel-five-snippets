@@ -3,6 +3,6 @@
 redirect('${1:form}');
 ]]></content>
     <tabTrigger>Redirect::to</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Redirect to URL, Route or Controller</description>
 </snippet>

@@ -6,6 +6,6 @@ if (Cache::has('${1:key}'))
 }
 ]]></content>
     <tabTrigger>Cache::has</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Check for existence in Cache</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-{!! Form::email(${1:\$name}, ${2:\$value}, ${3:\$attributes}) !!}
+{!! Form::email('${1:\$name}', ${2:\$value}, ${3:\$attributes}) !!}
 ]]></content>
     <tabTrigger>Form::email</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Generate an Email Input element (name, default, attributes)</description>
 </snippet>

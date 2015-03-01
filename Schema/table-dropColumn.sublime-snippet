@@ -3,6 +3,6 @@
 \$table->dropColumn('${1:votes}');
 ]]></content>
     <tabTrigger>Field::dropColumn</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Drop a column</description>
 </snippet>

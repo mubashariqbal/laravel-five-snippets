@@ -3,6 +3,6 @@
 class_basename(${1:'Foo\Bar\Baz'});
 ]]></content>
     <tabTrigger>Helper::classBasename</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Get the class name of the given class, without any namespace names.</description>
 </snippet>

@@ -3,6 +3,6 @@
 Schema::rename(${1:\$from}, ${2:\$to});
 ]]></content>
     <tabTrigger>Schema::rename</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Rename an existing database table</description>
 </snippet>

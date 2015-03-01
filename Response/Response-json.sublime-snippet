@@ -3,6 +3,6 @@
 response()->json(${1:\$array});
 ]]></content>
     <tabTrigger>Response::json</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Create a JSON Response</description>
 </snippet>

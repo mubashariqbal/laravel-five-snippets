@@ -3,6 +3,6 @@
 secure_url(${1:'foo/bar'}, ${2:\$parameters});
 ]]></content>
     <tabTrigger>Helper::secureUrl</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Generate a fully qualified URL to a given path using HTTPS.</description>
 </snippet>

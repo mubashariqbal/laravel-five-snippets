@@ -3,6 +3,6 @@
 storage_path();
 ]]></content>
     <tabTrigger>Helper::storagePath</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Get the fully qualified path to the app/storage directory.</description>
 </snippet>

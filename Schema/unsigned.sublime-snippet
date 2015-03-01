@@ -3,6 +3,6 @@
 ->unsigned();
 ]]></content>
     <tabTrigger>Field::unsigned</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Set INTEGER to UNSIGNED</description>
 </snippet>

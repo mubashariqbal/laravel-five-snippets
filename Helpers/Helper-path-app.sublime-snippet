@@ -3,6 +3,6 @@
 app_path();
 ]]></content>
     <tabTrigger>Helper::appPath</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Get the fully qualified path to the app directory.</description>
 </snippet>

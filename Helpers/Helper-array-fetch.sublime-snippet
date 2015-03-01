@@ -3,6 +3,6 @@
 array_fetch(${1:\$array}, ${2:'developer.name'});
 ]]></content>
     <tabTrigger>Helper::arrayFetch</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <!-- <description>@todo add description</description> -->
 </snippet>

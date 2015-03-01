@@ -3,6 +3,6 @@
 \$request->get('${1:products.0.name}');
 ]]></content>
     <tabTrigger>Request::method</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Various Request Methods to examine HTTP Requests</description>
 </snippet>

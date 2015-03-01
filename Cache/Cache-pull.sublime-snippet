@@ -3,6 +3,6 @@
 Cache::pull('${1:key}');
 ]]></content>
     <tabTrigger>Cache::pull</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Pulling An Item From The Cache</description>
 </snippet>

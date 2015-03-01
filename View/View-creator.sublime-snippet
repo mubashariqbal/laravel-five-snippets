@@ -6,6 +6,6 @@ View::creator(${1:'profile'}, function(${2:\$view})
 });
 ]]></content>
     <tabTrigger>View::creator</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Register a View Creator</description>
 </snippet>

@@ -3,6 +3,6 @@
 \$request->old('${1:username}', '${2:Username}');
 ]]></content>
     <tabTrigger>Input::oldWithDefault</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Retrieve Old Data with Default</description>
 </snippet>

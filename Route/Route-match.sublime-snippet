@@ -6,6 +6,6 @@
 });
 ]]></content>
     <tabTrigger>Route::match</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Registering A Route For Multiple Verbs</description>
 </snippet>

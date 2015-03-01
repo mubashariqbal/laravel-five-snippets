@@ -6,6 +6,6 @@ if (Schema::hasTable('${1:users}'))
 }
 ]]></content>
     <tabTrigger>Schema::hasTable</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Check for existence of table</description>
 </snippet>

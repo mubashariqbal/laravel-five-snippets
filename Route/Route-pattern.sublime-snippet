@@ -3,6 +3,6 @@
 \$router->pattern('id', '${1:[0-9]+}');
 ]]></content>
     <tabTrigger>Route::pattern</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Define Global Patterns (Regex)</description>
 </snippet>

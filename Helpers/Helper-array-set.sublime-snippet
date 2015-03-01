@@ -3,6 +3,6 @@
 array_set(${1:\$array}, ${2:'names.editor'}, ${3:'Taylor'});
 ]]></content>
     <tabTrigger>Helper::arraySet</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <!-- <description>@todo add description</description> -->
 </snippet>

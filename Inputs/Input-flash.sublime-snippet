@@ -3,6 +3,6 @@
 \$request->flash();
 ]]></content>
     <tabTrigger>Input::flash</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Flash Input to the Session</description>
 </snippet>

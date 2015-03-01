@@ -3,6 +3,6 @@
 \$table->rememberToken();
 ]]></content>
     <tabTrigger>Field::string</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>VARCHAR equivalent with a length (optional)</description>
 </snippet>

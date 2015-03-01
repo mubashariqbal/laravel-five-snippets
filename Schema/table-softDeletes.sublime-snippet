@@ -3,6 +3,6 @@
 \$table->softDeletes();
 ]]></content>
     <tabTrigger>Field::softDeletes</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Adds deleted_at column for soft deletes</description>
 </snippet>

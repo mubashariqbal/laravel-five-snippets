@@ -3,6 +3,6 @@
 {!! Form::select('${1:size}', ${2:['L' => 'Large', 'S' => 'Small']}, ${3:'S'}) !!}
 ]]></content>
     <tabTrigger>Form::select</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Generate a Drop-down list (name, array of options, default, attributes)</description>
 </snippet>

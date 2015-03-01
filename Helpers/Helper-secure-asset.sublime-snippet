@@ -3,6 +3,6 @@
 secure_asset(${1:'foo/bar.zip'}, ${2:\$title}, ${3:\$attributes});
 ]]></content>
     <tabTrigger>Helper::arrayDivide</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Generate a HTML link to the given asset using HTTPS.</description>
 </snippet>

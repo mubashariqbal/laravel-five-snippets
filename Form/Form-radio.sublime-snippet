@@ -6,6 +6,6 @@
 </label>
 ]]></content>
     <tabTrigger>Form::radio</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Generate a Radio element (name, value, checked, attributes)</description>
 </snippet>

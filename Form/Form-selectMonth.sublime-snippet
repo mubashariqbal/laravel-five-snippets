@@ -3,6 +3,6 @@
 {!! Form::selectMonth('${1:month}') !!}
 ]]></content>
     <tabTrigger>Form::selectMonth</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Generate a Drop-down list with Months (name, default, attributes)</description>
 </snippet>

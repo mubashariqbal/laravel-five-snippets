@@ -6,6 +6,6 @@
 }]);
 ]]></content>
     <tabTrigger>Route::getNamed</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Create Named Route</description>
 </snippet>

@@ -3,6 +3,6 @@
 \$table->longText('${1:description}');
 ]]></content>
     <tabTrigger>Field::longText</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>LONGTEXT equivalent to the table</description>
 </snippet>

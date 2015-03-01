@@ -3,6 +3,6 @@
 array_add(${1:\$array}, ${2:'key'}, ${3:'value'});
 ]]></content>
     <tabTrigger>Helper::arrayAdd</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <!-- <description>@todo add description</description> -->
 </snippet>

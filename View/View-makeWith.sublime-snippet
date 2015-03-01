@@ -3,6 +3,6 @@
 View::make(${1:'view.name'})->with('${2:message}', '${3:Login failed}');
 ]]></content>
     <tabTrigger>View::makeWith</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Create a View, Pass Data using with()</description>
 </snippet>

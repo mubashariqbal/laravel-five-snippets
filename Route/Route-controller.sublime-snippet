@@ -3,6 +3,6 @@
 \$router->controller('${1:users}', '${2:UserController}');
 ]]></content>
     <tabTrigger>Route::controller</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Route to a RESTful Controller</description>
 </snippet>

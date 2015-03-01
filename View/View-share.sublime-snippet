@@ -3,6 +3,6 @@
 View::share('${1:name}', '${2:Steve}');
 ]]></content>
     <tabTrigger>View::share</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php, text.html.laravel-blade, source.html</scope>
     <description>Share Data across all Views</description>
 </snippet>
